@@ -10,6 +10,8 @@
         "README.md",
         "pxtparts.json",
         "LCD1602_I2C.ts",
+        "_locales/zh-TW/i2cLCD1602-strings.json",
+        "_locales/zh-TW/i2cLCD1602-jsdoc-strings.json",
         "parts/LCD1602_I2C.svg"
     ],
     "testFiles": [
