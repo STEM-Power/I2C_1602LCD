@@ -1,0 +1,20 @@
+{
+  "I2C_LCD1602": "I2C 1602 LCD顯示模塊 Microbit makecode 擴充.\nFrom microbit/micropython Chinese community.\nhttp://www.micropython.org.cn\n\nCustom blocks",
+  "I2C_LCD1602.BacklightOff": "關閉背光",
+  "I2C_LCD1602.BacklightOn": "開啟背光",
+  "I2C_LCD1602.LcdInit": "LCD 啟動設定，設定I2C地址。PCF8574的I2C地址為39，PCF8574A的I2C地址為63",
+  "I2C_LCD1602.LcdInit|param|Addr": "LCD模塊的I2C地址， eg: 0, 39, 63. 輸入0 即是自動檢測I2C地址",
+  "I2C_LCD1602.ShowNumber": "在LCD模塊指定位置顯示數字",
+  "I2C_LCD1602.ShowNumber|param|n": "顯示的數值, eg: 10, 100, 200",
+  "I2C_LCD1602.ShowNumber|param|x": "LCD開始顯示的x軸位置, eg: 0",
+  "I2C_LCD1602.ShowNumber|param|y": "LCD開始顯示的y軸位置, eg: 0",
+  "I2C_LCD1602.ShowString": "在LCD模塊指定位置顯示字符",
+  "I2C_LCD1602.ShowString|param|s": "顯示的字符, eg: \"Hello\"",
+  "I2C_LCD1602.ShowString|param|x": "LCD開始顯示的x軸位置, [0 - 15], eg: 0",
+  "I2C_LCD1602.ShowString|param|y": "LCD開始顯示的y軸位置, [0 - 1], eg: 0",
+  "I2C_LCD1602.clear": "清除LCD顯示",
+  "I2C_LCD1602.off": "關閉LCD顯示",
+  "I2C_LCD1602.on": "啟動LCD顯示",
+  "I2C_LCD1602.shl": "向左移動",
+  "I2C_LCD1602.shr": "向右移動"
+}

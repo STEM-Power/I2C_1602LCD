@@ -1,0 +1,14 @@
+{
+  "I2C_LCD1602.BacklightOff|block": "關閉背光",
+  "I2C_LCD1602.BacklightOn|block": "開啟背光",
+  "I2C_LCD1602.LcdInit|block": "LCD 啟動設定，I2C地址 %addr",
+  "I2C_LCD1602.ShowNumber|block": "顯示數字 %n|，顯示開始在 x %x|y %y",
+  "I2C_LCD1602.ShowString|block": "顯示字符 %s|，顯示開始在 x %x|y %y",
+  "I2C_LCD1602.clear|block": "清除LCD顯示",
+  "I2C_LCD1602.off|block": "關閉LCD顯示",
+  "I2C_LCD1602.on|block": "啟動LCD顯示",
+  "I2C_LCD1602.shl|block": "向左移動",
+  "I2C_LCD1602.shr|block": "向右移動",
+  "I2C_LCD1602|block": "I2C_LCD1602",
+  "{id:category}I2C_LCD1602": "I2C_LCD1602"
+}
